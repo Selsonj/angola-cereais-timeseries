@@ -1,4 +1,4 @@
-🌾 Previsão da Produção de Cereais em Angola (2000–2033)
+🌾 Previsão da Produção de Cereais em Angola (2002–2028)
 
 Este projeto utiliza técnicas de Séries Temporais para prever a produção de cereais em Angola com base em dados históricos da FAOSTAT.
 O objetivo é demonstrar como a Ciência de Dados pode gerar insights relevantes para setores estratégicos como a agricultura.
